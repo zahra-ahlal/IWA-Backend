@@ -1,0 +1,9 @@
+[submodule "sys-rec"]
+	path = sys-rec
+	url = https://github.com/zahra-ahlal/sys-rec.git
+[submodule "offre"]
+	path = offre
+	url = https://github.com/zahra-ahlal/offre.git
+[submodule "user"]
+	path = user
+	url = https://github.com/zahra-ahlal/user.git
