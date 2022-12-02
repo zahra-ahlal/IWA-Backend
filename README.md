@@ -1,17 +1,17 @@
-# AZ JOB Java Spring-Boot Microservices 
+### AZ JOB Java Spring-Boot Microservices 
 Le travail qui a été fourni a été effectué dans le cadre du projet IWA (Ingénierie des Application Web) à Polytech Montpellier.
-A-Z JOB est une application Web conçue en plusieurs microservices en Spring Boot niveau back-end avec une base de données Postgres. 
+- A-Z JOB est une application Web conçue en plusieurs microservices en Spring Boot niveau back-end avec une base de données Postgres. 
 ---
 ### Version communes  aux différents repositories
   - Gradle 7.4.2
   - Spring Boot version: 3.0.0
 
-### [Services Registry](link)
+### [Services Registry](eurekaserver-azjob)
 - Dependencies:
   - spring-cloud-starter-netflix-eureka-server
 	- spring-boot-starter-test'
 ---
-### [API Gateway]()
+### [API Gateway](api-gateway-service)
 - Dependencies:
   - spring-cloud-starter-gateway  
   - spring-cloud-starter-netflix-eureka-client
