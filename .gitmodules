@@ -7,3 +7,9 @@
 [submodule "user"]
 	path = user
 	url = https://github.com/zahra-ahlal/user.git
+[submodule "api-gateway-service"]
+	path = api-gateway-service
+	url = https://github.com/afafbentouil/api-gateway-service.git
+[submodule "eurekaserver-azjob"]
+	path = eurekaserver-azjob
+	url = https://github.com/zahra-ahlal/eurekaserver-azjob.git
