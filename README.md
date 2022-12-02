@@ -11,7 +11,7 @@ Le travail qui a été fourni a été effectué dans le cadre du projet IWA (Ing
   - spring-cloud-starter-netflix-eureka-server
 	- spring-boot-starter-test'
 ---
-### [API Gateway]()
+### [API Gateway](api-gateway-service)
 - Dependencies:
   - spring-cloud-starter-gateway  
   - spring-cloud-starter-netflix-eureka-client
