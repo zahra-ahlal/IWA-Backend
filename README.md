@@ -110,7 +110,7 @@ $ docker-compose -f docker-compose.yml down
 
 ### Screenshots
 
-![All Microservices UP](files/pictures)
+![All Microservices UP](files/pictures/EUREAK.png)
 
 ### References:
 
