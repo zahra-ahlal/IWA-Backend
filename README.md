@@ -6,7 +6,7 @@ Le travail qui a été fourni a été effectué dans le cadre du projet IWA (Ing
   - Gradle 7.4.2
   - Spring Boot version: 3.0.0
 
-### [Services Registry](link)
+### [Services Registry](eurekaserver-azjob)
 - Dependencies:
   - spring-cloud-starter-netflix-eureka-server
 	- spring-boot-starter-test'
